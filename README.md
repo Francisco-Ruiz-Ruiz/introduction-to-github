@@ -24,7 +24,9 @@
       - Notificar menciones
       - Ignorar todo
     * De forma adicional puedes personalizar las notificaciones
-1.  Qué son GitHub Pages
+10.  Qué son GitHub Pages
     * Es un método de hosteo en web que utiliza GitHub
-2.  Qué es GitHub Flow
+11.  Qué es GitHub Flow
     * Es la forma de trabajo distribuida en ramas que se utiliza en GitHub
+
+![albiononlineesunmmorpgnolineal](./pantallazopullrequesthecholmRuizRuizFrancisco.jpg)
